@@ -1,2 +1,2 @@
-# sdd
-Created with CodeSandbox
+# pseudo-desktop
+PseudodesktopUI thing in react
